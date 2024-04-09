@@ -6,7 +6,7 @@ button {
     cursor: pointer;
     text-align: center;
     width: 50%;
-    height: 15%;
+    height: auto;
 }
 
 button:hover {
